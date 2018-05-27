@@ -1,5 +1,7 @@
 # DocumentSimilarity
 
+[![Build Status](https://travis-ci.com/morishin/document_similarity.svg?branch=master)](https://travis-ci.com/morishin/document_similarity)
+
 Calculate cosine similarity between given 2 sentence strings.
 
 ## Installation
